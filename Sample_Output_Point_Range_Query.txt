@@ -1,0 +1,9 @@
+/* This is how your output for rangeQuery and pointQuery should look. This is just a sample. It does not correspond to provided test_data1.txt*/
+round_robin_ratings_part0,655,367,3.0
+round_robin_ratings_part1,317,326,3.0
+round_robin_ratings_part2,254,265,3.0
+round_robin_ratings_part2,804,32,3.0
+range_ratings_part2,655,367,3.0
+range_ratings_part2,317,326,3.0
+range_ratings_part2,254,265,3.0
+range_ratings_part2,804,32,3.0
